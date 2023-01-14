@@ -1,4 +1,4 @@
-# Analyze-Twitch-Data-Using-SQL
+# Analyze-Twitch-Data-Using-SQL-And-Python
 
 
 https://www.codecademy.com/courses/dspath-twitch/articles/twitch-project

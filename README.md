@@ -20,7 +20,7 @@ In this project, I will visualize Twitch data using Python and Matplotlib, in th
 - I undertook the project as part of a course I undertook on Codecademy.
 
 ## Technologies Used
-- Python (Pandas and Matploblib)
+- Python 3 (Pandas and Matploblib)
 - SQL
 - Jupyter Notebook
 
